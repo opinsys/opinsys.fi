@@ -1209,7 +1209,7 @@ form div {
 #logo {
   float: left;
   margin: 0;
-  padding: 0.85em 0;
+  padding: 0 0 0.85em 0;
 }
 
 .site-name {
