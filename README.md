@@ -15,7 +15,7 @@
     * Random articles
 
 ## Highlight
-* Add tag 'highlight' to any post and it appears on left side of home page below Opinsys-service images
+* Add tag 'highlight' to any post and excerpt of it + link to post appears on left side of home page below Opinsys-service images
 
 ## Translations
 * Original Responsive theme comes with several translations (located in /languages -folder)
