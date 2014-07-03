@@ -1,0 +1,14 @@
+/* IE7 and down-fixes */
+
+.landing-page-services-wrap a > div{
+  background: none 0 0 #B0C730;
+  border: 5px solid #F0EEE1;
+  margin-right: 10px;
+  padding: 1em 0.5em 75px;
+  position: relative;
+  width: 27%;
+}
+
+#featured .landing-page-services-wrap .item-wrapper p, #services .landing-page-services-wrap .item-wrapper p {
+  background: none 0 0 #E6E6DC;
+}

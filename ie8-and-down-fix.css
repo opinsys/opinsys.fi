@@ -1,0 +1,29 @@
+/* IE8 and down-fixes */
+#logo img{
+  max-width: 300px;
+  width: auto;
+}
+.landing-page-services-wrap h1{
+  color: #fbfbfb !important;
+}
+.landing-page-services-wrap [class*="col"]:hover{
+  border: 2px solid #ED7113;
+}
+.home-widget-wrap{
+  margin-bottom: 1em;
+}
+.infotv-table .odd{
+  background-color: white;
+}
+.infotv-table .even{
+  background-color: #ED7113;
+}
+#mc_signup_form{
+  width: 100% !important;
+}
+.mc_custom_border_hdr{
+  color: #404040 !important;
+  margin:0;
+  padding: 0;
+  width: 100% !important;
+}

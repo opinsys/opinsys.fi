@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Opinsys 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-03 12:40+0200\n"
+"PO-Revision-Date: 2014-07-03 12:44+0200\n"
+"Last-Translator: Janne Saarela <jannejuhani@gmail.com>\n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# @ responsive
+#: 404.php:26 archive.php:91 full-width-page.php:66 image.php:72 index.php:72
+#: page.php:61 single.php:90 sitemap.php:80
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Mukava tavata sinut täällä!"
+
+# @ responsive
+#: 404.php:27 archive.php:92 full-width-page.php:67 page.php:62 search.php:67
+#: single.php:91 sitemap.php:81
+msgid ""
+"Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our "
+"options here."
+msgstr "Ei hätää, selviämme tästä yhdessä. Tutkikaamme vaihtoehtoja."
+
+# @ responsive
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "You can return"
+msgstr "Voit palata"
+
+# @ responsive
+#: 404.php:28 archive.php:93 full-width-page.php:68 includes/functions.php:321
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "Home"
+msgstr "Alkuun"
+
+# @ responsive
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "&larr; Home"
+msgstr "&larr; Alkuun"
+
+# @ responsive
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "or search for the page you were looking for"
+msgstr "tai hakea etsimääsi sivua"
+
+# @ responsive
+#: archive.php:34
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arkistot päivittäin: %s"
+
+# @ responsive
+#: archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arkistot kuukausittain: %s"
+
+# @ responsive
+#: archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arkistot vuosittain: %s"
+
+# @ responsive
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "Blogiarkistot"
+
+# @ responsive
+#: archive.php:47 index.php:30 search.php:33 sitemap.php:51
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Pysyvä linkki sivulle %s"
+
+# @ responsive
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "No Comments &darr;"
+msgstr "Ei kommentteja ↓"
+
+# @ responsive
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "1 Comment &darr;"
+msgstr "1 kommentti ↓"
+
+# @ responsive
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "% Comments &darr;"
+msgstr "% kommenttia ↓"
+
+# @ responsive
+#: archive.php:67 full-width-page.php:39 image.php:48 index.php:50 page.php:35
+#: search.php:48 single.php:61 sitemap.php:63
+msgid "Pages:"
+msgstr "Sivut:"
+
+# @ responsive
+#: archive.php:71 full-width-page.php:45 image.php:58 index.php:54 page.php:40
+#: single.php:70
+msgid "Tagged with:"
+msgstr "Merkitty: "
+
+# @ responsive
+#: archive.php:72 full-width-page.php:46 image.php:59 index.php:55 page.php:41
+#: single.php:71
+#, php-format
+msgid "Posted in %s"
+msgstr "Julkaistu kohteessa %s"
+
+# @ responsive
+#: archive.php:75 full-width-page.php:50 image.php:63 index.php:58 page.php:45
+#: search.php:52 single.php:74 sitemap.php:66
+msgid "Edit"
+msgstr "Muokkaa"
+
+# @ responsive
+#: archive.php:84 full-width-page.php:59 index.php:65 page.php:54
+#: search.php:59 single.php:83 sitemap.php:73
+msgid "&#8249; Older posts"
+msgstr "‹ Vanhemmat julkaisut"
+
+# @ responsive
+#: archive.php:85 full-width-page.php:60 index.php:66 page.php:55
+#: search.php:60 single.php:84 sitemap.php:74
+msgid "Newer posts &#8250;"
+msgstr "Uudemmat julkaisut ›"
+
+# @ responsive
+#: comments.php:22
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Tämä julkaisu on turvattu salasanalla. Syötä salasana nähdäksesi kommentit."
+
+# @ responsive
+#: comments.php:29
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr "Yksi kommentti kohteessa “%2$s”"
+
+# @ responsive
+#: comments.php:36 comments.php:47
+msgid "&#8249; Older comments"
+msgstr "‹ Vanhemmat kommentit"
+
+# @ responsive
+#: comments.php:37 comments.php:48
+msgid "Newer comments &#8250;"
+msgstr "Uudemmat kommentit ›"
+
+# @ responsive
+#: comments.php:59
+msgid "Pings&#47;Trackbacks"
+msgstr "Yhteydet/Seurannat"
+
+# @ responsive
+#: comments.php:62
+msgid "for"
+msgstr "varten"
+
+# @ responsive
+#: comments.php:75
+msgid "Name"
+msgstr "Nimi"
+
+# @ responsive
+#: comments.php:77
+msgid "E-mail"
+msgstr "Sähköposti"
+
+# @ responsive
+#: comments.php:79
+msgid "Website"
+msgstr "Kotisivu"
+
+# @ responsive
+#: footer.php:110
+msgid "&copy;"
+msgstr "&copy;"
+
+# @ responsive
+#: footer.php:115
+msgid "scroll to top"
+msgstr "vieritä ylös"
+
+# @ responsive
+#: footer.php:115
+msgid "&uarr;"
+msgstr "&uarr;"
+
+# @ responsive
+#: full-width-page.php:38 image.php:47 includes/functions.php:232 index.php:49
+#: page.php:34 single.php:49
+msgid "Read more &#8250;"
+msgstr "Lue lisää ›"
+
+#: home.php:38
+msgid "Opinsys services"
+msgstr "Opinsys-palvelu"
+
+#: home.php:91
+msgid "Opinsys service – Better learning"
+msgstr "Opinsys-palvelu - Parempaa oppimista"
+
+#: home.php:92
+msgid "Better learning"
+msgstr "Parempaa oppimista"
+
+# @ responsive
+#: image.php:31
+msgid "&#8249; Return to"
+msgstr "‹ Palaa"
+
+# @ responsive
+#: image.php:73 index.php:73
+msgid ""
+"Don't panic, we'll get through this together. Let's explore our options here."
+msgstr "Ei hätää, selviämme tästä yhdessä. Tutkikaamme vaihtoehtoja."
+
+# @ responsive
+#: image.php:74 index.php:74
+msgid "home"
+msgstr "Alkuun"
+
+# @ responsive
+#: includes/functions.php:74
+msgid "Top Menu"
+msgstr "Päävalikko"
+
+# @ responsive
+#: includes/functions.php:75
+msgid "Header Menu"
+msgstr "Ylätunnistevalikko"
+
+# @ responsive
+#: includes/functions.php:76
+msgid "Sub-Header Menu"
+msgstr "Ylätunnisteen alavalikko"
+
+# @ responsive
+#: includes/functions.php:77
+msgid "Footer Menu"
+msgstr "Alatunnistevalikko"
+
+#: includes/functions.php:281
+#, php-format
+msgid "%2$s<span class=\"%3$s\">"
+msgstr "%2$s<span class=\"%3$s\">"
+
+# @ responsive
+#: includes/functions.php:291
+#, php-format
+msgid "View all posts by %s"
+msgstr "Näytä kaikki julkaisut henkilöltä %s"
+
+# @ responsive
+#: includes/functions.php:340
+msgid "Archive for "
+msgstr "Arkisto"
+
+# @ responsive
+#: includes/functions.php:393
+msgid "Search results for "
+msgstr "Hakutulokset"
+
+# @ responsive
+#: includes/functions.php:396
+msgid "Posts tagged "
+msgstr "Merkityt julkaisut "
+
+# @ responsive
+#: includes/functions.php:401
+msgid "All posts by "
+msgstr "Kaikki julkaisut henkilöltä"
+
+# @ responsive
+#: includes/functions.php:404
+msgid "Error 404 "
+msgstr "Virhe 404"
+
+# @ responsive
+#: includes/functions.php:409
+msgid "Page"
+msgstr "Sivu"
+
+#: includes/functions.php:455
+msgid "http://themeid.com/support/"
+msgstr "http://themeid.com/support/"
+
+#: includes/functions.php:455 includes/functions.php:456
+msgid "Theme Support"
+msgstr "Teeman tuki"
+
+#: includes/functions.php:458
+msgid "http://themeid.com/themes/"
+msgstr "http://themeid.com/themes/"
+
+#: includes/functions.php:458 includes/functions.php:459
+msgid "More Themes"
+msgstr "Lisää teemoja"
+
+#: includes/functions.php:461
+msgid "http://themeid.com/showcase/"
+msgstr "http://themeid.com/showcase/"
+
+#: includes/functions.php:461 includes/functions.php:462
+msgid "Showcase"
+msgstr "Portfolio"
+
+#: includes/functions.php:464
+msgid "http://themeid.com/donate/"
+msgstr "http://themeid.com/donate/"
+
+#: includes/functions.php:464 includes/functions.php:465
+msgid "Donate Now"
+msgstr "Lahjoita"
+
+# @ responsive
+#: includes/functions.php:480
+msgid "Main Sidebar"
+msgstr "Pää-sivupalkki"
+
+# @ responsive
+#: includes/functions.php:481
+msgid "Area One - sidebar.php"
+msgstr "Alue yksi - sidebar.php"
+
+# @ responsive
+#: includes/functions.php:530
+msgid "Home Widget 1"
+msgstr "Koti Widgetti 1"
+
+# @ responsive
+#: includes/functions.php:531
+msgid "Area Six - sidebar-home.php"
+msgstr "Alue kuusi - sidebar-home.php"
+
+# @ responsive
+#: includes/functions.php:540
+msgid "Home Widget 2"
+msgstr "Koti Widgetti 2"
+
+# @ responsive
+#: includes/functions.php:541
+msgid "Area Seven - sidebar-home.php"
+msgstr "Alue seitsemän - sidebar-home.php"
+
+#: includes/functions.php:570
+msgid "Colophon Widget"
+msgstr "Alaosan Widgetti"
+
+#: includes/functions.php:571
+msgid "Area Ten - sidebar-colophon.php"
+msgstr "Alue kymmenen - sidebar-colophon.php"
+
+#: includes/functions.php:580
+msgid "Top Widget"
+msgstr "Yläosan Widgetti"
+
+#: includes/functions.php:581
+msgid "Area Twelve - sidebar-top.php"
+msgstr "Alue kaksitoista- sidebar-top.php"
+
+# @ responsive
+#: includes/searchform-header.php:22 searchform.php:22
+msgid "search here &hellip;"
+msgstr "Etsi tästä ..."
+
+# @ responsive
+#: includes/theme-options.php:45 includes/theme-options.php:140
+msgid "Theme Options"
+msgstr "Teeman asetukset"
+
+# @ responsive
+#: includes/theme-options.php:144
+msgid "Options Saved"
+msgstr "Asetukset tallennettu"
+
+# @ responsive
+#: includes/theme-options.php:155
+msgid "Theme Elements"
+msgstr "Teeman elementit"
+
+# @ responsive
+#: includes/theme-options.php:164
+msgid "Disable Breadcrumb Lists?"
+msgstr "Estetäänkö opastejana?"
+
+# @ responsive
+#: includes/theme-options.php:167
+msgid "Check to disable"
+msgstr "Valitse estääksesi"
+
+# @ responsive
+#: includes/theme-options.php:172 includes/theme-options.php:269
+#: includes/theme-options.php:327 includes/theme-options.php:414
+#: includes/theme-options.php:440 includes/theme-options.php:471
+msgid "Save Options"
+msgstr "Tallenna asetukset"
+
+# @ responsive
+#: includes/theme-options.php:179
+msgid "Logo Upload"
+msgstr "Lataa logo"
+
+# @ responsive
+#: includes/theme-options.php:187
+msgid "Custom Header"
+msgstr "Mukautettu otsikko"
+
+#: includes/theme-options.php:190
+msgid "Need to replace or remove default logo?"
+msgstr "Haluatko korvata tai poistaa oletuslogon?"
+
+#: includes/theme-options.php:190
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Klikkaa tästä</a>."
+
+# @ responsive
+#: includes/theme-options.php:197
+msgid "Home Page"
+msgstr "Aloitussivu"
+
+# @ responsive
+#: includes/theme-options.php:205
+msgid "Headline"
+msgstr "Otsikko"
+
+# @ responsive
+#: includes/theme-options.php:208
+msgid "Enter your headline"
+msgstr "Syötä otsikko"
+
+# @ responsive
+#: includes/theme-options.php:216
+msgid "Subheadline"
+msgstr "Alaotsikko"
+
+# @ responsive
+#: includes/theme-options.php:219
+msgid "Enter your subheadline"
+msgstr "Syötä alaotsikko"
+
+# @ responsive
+#: includes/theme-options.php:227
+msgid "Content Area"
+msgstr "Sisältö"
+
+# @ responsive
+#: includes/theme-options.php:230
+msgid "Enter your content"
+msgstr "Syötä sisältöä"
+
+# @ responsive
+#: includes/theme-options.php:238
+msgid "Call to Action (URL)"
+msgstr "Call to Action (URL)"
+
+# @ responsive
+#: includes/theme-options.php:241
+msgid "Enter your call to action URL"
+msgstr "Täytä call to action URLi"
+
+# @ responsive
+#: includes/theme-options.php:249
+msgid "Call to Action (Text)"
+msgstr "Call to Action (Teksti)"
+
+# @ responsive
+#: includes/theme-options.php:252
+msgid "Enter your call to action text"
+msgstr "Syötä call to action tekstisi"
+
+# @ responsive
+#: includes/theme-options.php:261
+msgid "Featured Content"
+msgstr "Valittua sisältöä"
+
+# @ responsive
+#: includes/theme-options.php:262
+msgid "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+msgstr "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+
+# @ responsive
+#: includes/theme-options.php:262 includes/theme-options.php:263
+msgid "See Docs"
+msgstr "Katso dokumenteista"
+
+#: includes/theme-options.php:267
+msgid "Paste your shortcode, video or image source"
+msgstr "Liitä videon tai kuvan lähde"
+
+# @ responsive
+#: includes/theme-options.php:276
+msgid "Webmaster Tools"
+msgstr "Ylläpitäjän työkalut"
+
+# @ responsive
+#: includes/theme-options.php:285
+msgid "Google Site Verification"
+msgstr "Google: sivuston varmennus"
+
+# @ responsive
+#: includes/theme-options.php:288
+msgid "Enter your Google ID number only"
+msgstr "Syötä ainoastaan Google ID -numerosi"
+
+# @ responsive
+#: includes/theme-options.php:296
+msgid "Bing Site Verification"
+msgstr "Bing: sivuston varmennus"
+
+# @ responsive
+#: includes/theme-options.php:299
+msgid "Enter your Bing ID number only"
+msgstr "Syötä ainoastaan Bing ID -numerosi"
+
+# @ responsive
+#: includes/theme-options.php:307
+msgid "Yahoo Site Verification"
+msgstr "Yahoo: sivuston varmennus"
+
+# @ responsive
+#: includes/theme-options.php:310
+msgid "Enter your Yahoo ID number only"
+msgstr "Syötä ainoastaan Yahoo ID -numerosi"
+
+# @ responsive
+#: includes/theme-options.php:319
+msgid "Site Statistics Tracker"
+msgstr "Sivuston tilastojen seuranta"
+
+# @ responsive
+#: includes/theme-options.php:320
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Jätä tyhjäksi jos liitännäinen käsittelee ylläpitäjän työkalujasi"
+
+# @ responsive
+#: includes/theme-options.php:325
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, joku muu tai kaikki niistä."
+
+# @ responsive
+#: includes/theme-options.php:334
+msgid "Social Icons"
+msgstr "Sosiaaliset kuvakkeet"
+
+# @ responsive
+#: includes/theme-options.php:343
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ responsive
+#: includes/theme-options.php:346
+msgid "Enter your Twitter URL"
+msgstr "Syötä Twitter-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:349 includes/widgets.php:33
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ responsive
+#: includes/theme-options.php:352
+msgid "Enter your Facebook URL"
+msgstr "Syötä Facebook-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:355
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ responsive
+#: includes/theme-options.php:358
+msgid "Enter your LinkedIn URL"
+msgstr "Syötä LinkedIn-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:361
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ responsive
+#: includes/theme-options.php:364
+msgid "Enter your YouTube URL"
+msgstr "Syötä YouTube-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:367
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+# @ responsive
+#: includes/theme-options.php:370
+msgid "Enter your StumbleUpon URL"
+msgstr "Syötä StumbleUpon-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:373
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+# @ responsive
+#: includes/theme-options.php:376
+msgid "Enter your RSS Feed URL"
+msgstr "Syötä RSS-syötteesi URL"
+
+# @ responsive
+#: includes/theme-options.php:379
+msgid "Google+"
+msgstr "Google+"
+
+# @ responsive
+#: includes/theme-options.php:382
+msgid "Enter your Google+ URL"
+msgstr "Syötä Google+ -sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:385
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ responsive
+#: includes/theme-options.php:388
+msgid "Enter your Instagram URL"
+msgstr "Syötä instagram-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:391
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ responsive
+#: includes/theme-options.php:394
+msgid "Enter your Pinterest URL"
+msgstr "Syötä Pinterest-sivusi URL"
+
+#: includes/theme-options.php:397
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: includes/theme-options.php:400
+msgid "Enter your Yelp! URL"
+msgstr "Syötä Yelp!-sivusi URL"
+
+#: includes/theme-options.php:403
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/theme-options.php:406
+msgid "Enter your Vimeo URL"
+msgstr "Syötä Vimeo-sivusi URL"
+
+#: includes/theme-options.php:409
+msgid "foursquare"
+msgstr "foursquare"
+
+#: includes/theme-options.php:412
+msgid "Enter your foursquare URL"
+msgstr "Syötä foursquare-sivusi URL"
+
+# @ responsive
+#: includes/theme-options.php:421 includes/theme-options.php:431
+msgid "Custom CSS Styles"
+msgstr "Mukautetut CSS-tyylit"
+
+#: includes/theme-options.php:432
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/en/CSS"
+
+# @ responsive
+#: includes/theme-options.php:432 includes/theme-options.php:433
+msgid "CSS Tutorial"
+msgstr "CSS-opastus"
+
+# @ responsive
+#: includes/theme-options.php:438
+msgid "Enter your custom CSS styles."
+msgstr "Syötä mukautetut CSS-tyylit."
+
+#: includes/theme-options.php:447
+msgid "Custom Scripts"
+msgstr "Mukautetut scriptit"
+
+#: includes/theme-options.php:457
+msgid "Custom Scripts for Header and Footer"
+msgstr "Mukautetut scriptit ylä- ja alaotsakkeeseen"
+
+#: includes/theme-options.php:458
+msgid "http://codex.wordpress.org/Using_Javascript"
+msgstr "http://codex.wordpress.org/Using_Javascript"
+
+#: includes/theme-options.php:458 includes/theme-options.php:459
+msgid "Quick Tutorial"
+msgstr "Pikaopas"
+
+#: includes/theme-options.php:463
+msgid "Embeds to header.php &darr;"
+msgstr "Sisällytetään header.php-tiedostoon &darr;"
+
+#: includes/theme-options.php:465
+msgid "Enter your custom header script."
+msgstr "Syötä mukautetut yläotsakkeen scriptit."
+
+#: includes/theme-options.php:467
+msgid "Embeds to footer.php &darr;"
+msgstr "Sisällytetään footer.php-tiedostoon &darr;"
+
+#: includes/theme-options.php:469
+msgid "Enter your custom footer script."
+msgstr "Syötä mukautetut alaotsakkeen scriptit."
+
+#: includes/widgets.php:17
+msgid "Facebook Widget"
+msgstr "Facebook Widgetti"
+
+#: includes/widgets.php:18
+msgid "Displays Facebook like box"
+msgstr "Sisällyttää sivustolle Facebookin \"Tykkää\"-laatikon"
+
+#: includes/widgets.php:39 includes/widgets.php:108
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: includes/widgets.php:43
+msgid "Facebook page URL:"
+msgstr "Facebook sivun URL:"
+
+#: includes/widgets.php:87
+msgid "RSS Widget for Opinsys Labs"
+msgstr "Opinsys Labs uutisvirta"
+
+#: includes/widgets.php:88
+msgid "Displays Opinsys Labs RSS-feed"
+msgstr "Näyttää Opinsys Labs uutisvirran"
+
+#: includes/widgets.php:104
+msgid "RSS-feed"
+msgstr "Uutisvirta"
+
+#: includes/widgets.php:112
+msgid "RSS item quantity:"
+msgstr "Näytettävien artikkeliotsikoiden määrä:"
+
+#: includes/widgets.php:116
+msgid "RSS URL:"
+msgstr "RSS URL:"
+
+#: includes/widgets.php:164
+msgid "News and updates about our work in the realm of Linux and the Web."
+msgstr "News and updates about our work in the realm of Linux and the Web."
+
+#: includes/widgets.php:168
+msgid "RSS-feed can not be loaded at the moment..."
+msgstr "Uutisvirtaa ei voida ladata tällä hetkellä..."
+
+#: includes/widgets.php:194
+msgid "Sidebar article Widget"
+msgstr "Sivupalkin artikkeli-widget"
+
+#: includes/widgets.php:195
+msgid "Displays different article types in sidebar"
+msgstr "Näyttää artikkeleita eri kriteereillä"
+
+#: includes/widgets.php:217
+msgid "Enable latest articles?"
+msgstr "Aktivoi viimeisimmät blogiartikkelit?"
+
+#: includes/widgets.php:221
+msgid "Enable the most read articles?"
+msgstr "Aktivoi suosituimmat artikkelit?"
+
+#: includes/widgets.php:225
+msgid "Enable random articles?"
+msgstr "Aktivoi satunnaiset artikkelit?"
+
+#: includes/widgets.php:254
+msgid "Latest articles"
+msgstr "Viimeisimmät blogiartikkelit"
+
+#: includes/widgets.php:271
+msgid "Popular posts"
+msgstr "Suosituimmat artikkelit"
+
+#: includes/widgets.php:288
+msgid "Random articles"
+msgstr "Poimintoja blogista"
+
+#: search.php:27
+#, php-format
+msgid "Search results for: %s"
+msgstr "Hakutulokset sanoilla %s"
+
+#: search.php:66
+msgid "Your search for"
+msgstr "Hakusanoilla"
+
+#: search.php:66
+msgid "did not match any entries"
+msgstr "ei löydy hakutuloksia"
+
+# @ responsive
+#: searchform.php:23
+msgid "Go"
+msgstr "Hae"
+
+#: sidebar-home.php:36
+msgid "Read more &#8594;"
+msgstr "Lue lisää &#8594;"
+
+# @ responsive
+#: single.php:55
+msgid "About"
+msgstr "Tietoa"
+
+# @ responsive
+#: sitemap.php:42
+msgid "Categories"
+msgstr "Aiheet"
+
+# @ responsive
+#: sitemap.php:47
+msgid "Latest Posts"
+msgstr "Uusimmat julkaisut"
+
+# @ responsive
+#: sitemap.php:58
+msgid "Pages"
+msgstr "Sivut"
+
+#: static-data-for-home.php:21 static-data-for-home.php:23
+#: static-data-for-home.php:25 static-data-for-home.php:26
+msgid "ICT for schools"
+msgstr "Koulun tietotekniikka"
+
+#: static-data-for-home.php:27
+msgid "Technical solutions, support and training"
+msgstr "Tekniikka, tuki ja koulutus"
+
+#: static-data-for-home.php:31 static-data-for-home.php:33
+#: static-data-for-home.php:35
+msgid "Messaging for schools"
+msgstr "Koulun tiedotus"
+
+#: static-data-for-home.php:36
+msgid "InfoTv"
+msgstr "Infotv"
+
+#: static-data-for-home.php:40 static-data-for-home.php:42
+#: static-data-for-home.php:44 static-data-for-home.php:45
+msgid "Mobility"
+msgstr "Koulun mobiilius"
+
+#: static-data-for-home.php:46
+msgid "Wireless and laptops"
+msgstr "Langaton verkko ja kannettavat"
+
+#~ msgid "The most read articles"
+#~ msgstr "Suosituimmat artikkelit"
+
+# @ responsive
+#~ msgid "In Archive"
+#~ msgstr "Arkisto"
+
+# @ responsive
+#~ msgid "Right Sidebar"
+#~ msgstr "Oikea sivupalkki"
+
+# @ responsive
+#~ msgid "Area Two - sidebar-right.php"
+#~ msgstr "Alue kaksi - sidebar-right.php"
+
+# @ responsive
+#~ msgid "Left Sidebar"
+#~ msgstr "Vasen sivupalkki"
+
+# @ responsive
+#~ msgid "Area Three - sidebar-left.php"
+#~ msgstr "Alue kolme - sidebar-left.php"
+
+# @ responsive
+#~ msgid "Left Sidebar Half Page"
+#~ msgstr "Vasen sivupalkki puolikas sivu"
+
+# @ responsive
+#~ msgid "Area Four - sidebar-left-half.php"
+#~ msgstr "Alue neljä - sidebar-left-half.php"
+
+# @ responsive
+#~ msgid "Right Sidebar Half Page"
+#~ msgstr "Oikea sivupalkki puolikas sivu"
+
+# @ responsive
+#~ msgid "Area Five - sidebar-right-half.php"
+#~ msgstr "Alue viisi - sidebar-right-half.php"
+
+# @ responsive
+#~ msgid "Gallery Sidebar"
+#~ msgstr "Gallerian sivupalkki"
+
+# @ responsive
+#~ msgid "Area Nine - sidebar-gallery.php"
+#~ msgstr "Alue yhdeksän - sidebar-gallery.php"
+
+# @ responsive
+#~ msgid "Image Information"
+#~ msgstr "Kuvan tiedot"
+
+# @ responsive
+#~ msgid "Full Size:"
+#~ msgstr "Täysi koko:"
+
+# @ responsive
+#~ msgid "Aperture: f&#47;"
+#~ msgstr "Aukko: f/"
+
+# @ responsive
+#~ msgid "Focal Length:"
+#~ msgstr "Polttoväli:"
+
+# @ responsive
+#~ msgid "mm"
+#~ msgstr "mm"
+
+# @ responsive
+#~ msgid "ISO:"
+#~ msgstr "ISO:"
+
+# @ responsive
+#~ msgid "Shutter:"
+#~ msgstr "Sulkija:"
+
+# @ responsive
+#~ msgid "Camera:"
+#~ msgstr "Kamera:"
+
+#~ msgid "Search"
+#~ msgstr "Etsi"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+# @ responsive
+#~ msgid "Disable Call to Action Button?"
+#~ msgstr "Estetäänkö toimintokutsunappi?"
+
+#~ msgid "Hakutulokset sanoilla: %s"
+#~ msgstr "Hakutulokset sanoilla: %s"
+
+#~ msgid "Do you want to restore?"
+#~ msgstr "Haluatko palauttaa oletusasetukset?"
+
+#~ msgid "All theme settings will be lost!"
+#~ msgstr "Kaikki teeman asetukset nollaantuvat!"
+
+#~ msgid "Click OK to Restore."
+#~ msgstr "Klikkaa OK, jos haluat palauttaa oletusasetukset"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "Palauta oletusasetukset"
+
+#~ msgid "Upgrade"
+#~ msgstr "Päivitä"
+
+#~ msgid "Default"
+#~ msgstr "Oletus"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Näytettävien blogitekstien määrä:"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Hakutulokset sanoilla %s"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "some different keywords."
+#~ msgstr ""
+#~ "Pahoittelut, hakusanoillasi ei löytynyt mitään. Yritä uudelleen eri "
+#~ "hakusanoilla."
+
+#~ msgid "Site Title Color"
+#~ msgstr "Sivuston otsikkoväri"
+
+#, fuzzy
+#~ msgid "RSS Widget"
+#~ msgstr "Yläosan Widgetti"

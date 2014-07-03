@@ -1,0 +1,1198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-03 12:40+0200\n"
+"PO-Revision-Date: 2014-07-03 12:51+0200\n"
+"Last-Translator: Janne Saarela <jannejuhani@gmail.com>\n"
+"Language-Team: Swedish, Sweden\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: 404.php:26 archive.php:91 full-width-page.php:66 image.php:72 index.php:72
+#: page.php:61 single.php:90 sitemap.php:80
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Trevligt att träffa dig här!"
+
+#: 404.php:27 archive.php:92 full-width-page.php:67 page.php:62 search.php:67
+#: single.php:91 sitemap.php:81
+msgid ""
+"Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our "
+"options here."
+msgstr ""
+"Få inte panik, vi tar oss igenom detta tillsammans. Låt oss utforska våra "
+"alternativ."
+
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "You can return"
+msgstr "Du kan gå tillbaka"
+
+#: 404.php:28 archive.php:93 full-width-page.php:68 includes/functions.php:321
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "Home"
+msgstr "Hem"
+
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "&larr; Home"
+msgstr "&larr; Hem"
+
+#: 404.php:28 archive.php:93 full-width-page.php:68 image.php:74 index.php:74
+#: page.php:63 search.php:68 single.php:92 sitemap.php:82
+msgid "or search for the page you were looking for"
+msgstr "eller söka efter den sidan du letade efter"
+
+#: archive.php:34
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagliga Arkiv: %s"
+
+#: archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#: archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Årliga Arkiv: %s"
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "Bloggarkiv"
+
+#: archive.php:47 index.php:30 search.php:33 sitemap.php:51
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent Länk till %s"
+
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "No Comments &darr;"
+msgstr "Inga Kommentarer &darr;"
+
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "1 Comment &darr;"
+msgstr "1 Kommentar &darr;"
+
+#: archive.php:55 image.php:39 index.php:38 search.php:41 single.php:43
+msgid "% Comments &darr;"
+msgstr "% Kommentarer &darr;"
+
+#: archive.php:67 full-width-page.php:39 image.php:48 index.php:50 page.php:35
+#: search.php:48 single.php:61 sitemap.php:63
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: archive.php:71 full-width-page.php:45 image.php:58 index.php:54 page.php:40
+#: single.php:70
+msgid "Tagged with:"
+msgstr "Taggar:"
+
+#: archive.php:72 full-width-page.php:46 image.php:59 index.php:55 page.php:41
+#: single.php:71
+#, php-format
+msgid "Posted in %s"
+msgstr "Publicerad i %s"
+
+#: archive.php:75 full-width-page.php:50 image.php:63 index.php:58 page.php:45
+#: search.php:52 single.php:74 sitemap.php:66
+msgid "Edit"
+msgstr "Redigera"
+
+#: archive.php:84 full-width-page.php:59 index.php:65 page.php:54
+#: search.php:59 single.php:83 sitemap.php:73
+msgid "&#8249; Older posts"
+msgstr "&#8249; Äldre inlägg"
+
+#: archive.php:85 full-width-page.php:60 index.php:66 page.php:55
+#: search.php:60 single.php:84 sitemap.php:74
+msgid "Newer posts &#8250;"
+msgstr "Nyare inlägg &#8250;"
+
+#: comments.php:22
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Detta inlägg är lösenordsskyddad. Ange lösenordet för att se kommentarer."
+
+#: comments.php:29
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr "En kommentar på “%2$s”"
+
+#: comments.php:36 comments.php:47
+msgid "&#8249; Older comments"
+msgstr "&#8249; Äldre kommentarer"
+
+#: comments.php:37 comments.php:48
+msgid "Newer comments &#8250;"
+msgstr "Nyare kommentarer &#8250;"
+
+#: comments.php:59
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Trashbacks"
+
+#: comments.php:62
+msgid "for"
+msgstr "för"
+
+#: comments.php:75
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:77
+msgid "E-mail"
+msgstr "E-post"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Webbsida"
+
+#: footer.php:110
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php:115
+msgid "scroll to top"
+msgstr "scrolla till topp"
+
+#: footer.php:115
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: full-width-page.php:38 image.php:47 includes/functions.php:232 index.php:49
+#: page.php:34 single.php:49
+msgid "Read more &#8250;"
+msgstr "Läs mer &#8250;"
+
+#: home.php:38
+msgid "Opinsys services"
+msgstr "Opinsys-tjänster"
+
+#: home.php:91
+msgid "Opinsys service – Better learning"
+msgstr "Opinsys tjänster - Bättre lärande"
+
+#: home.php:92
+msgid "Better learning"
+msgstr "Bättre lärande"
+
+#: image.php:31
+msgid "&#8249; Return to"
+msgstr "&#8249; Gå tillbaka till"
+
+#: image.php:73 index.php:73
+msgid ""
+"Don't panic, we'll get through this together. Let's explore our options here."
+msgstr ""
+"Få inte panik, vi tar oss igenom detta tillsammans. Låt oss utforska våra "
+"alternativ."
+
+#: image.php:74 index.php:74
+msgid "home"
+msgstr "hem"
+
+#: includes/functions.php:74
+msgid "Top Menu"
+msgstr "Topp Meny"
+
+#: includes/functions.php:75
+msgid "Header Menu"
+msgstr "Sidhuvud Meny"
+
+#: includes/functions.php:76
+msgid "Sub-Header Menu"
+msgstr "Sidhuvud Undermeny"
+
+#: includes/functions.php:77
+msgid "Footer Menu"
+msgstr "Sidfot Meny"
+
+#: includes/functions.php:281
+#, php-format
+msgid "%2$s<span class=\"%3$s\">"
+msgstr "%2$s<span class=\"%3$s\">"
+
+#: includes/functions.php:291
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: includes/functions.php:340
+msgid "Archive for "
+msgstr "Arkiv för "
+
+#: includes/functions.php:393
+msgid "Search results for "
+msgstr "Sökresultat för "
+
+#: includes/functions.php:396
+msgid "Posts tagged "
+msgstr "Inlägg taggade "
+
+#: includes/functions.php:401
+msgid "All posts by "
+msgstr "Alla inlägg av "
+
+#: includes/functions.php:404
+msgid "Error 404 "
+msgstr "Fel 404 "
+
+#: includes/functions.php:409
+msgid "Page"
+msgstr "Sida"
+
+#: includes/functions.php:455
+msgid "http://themeid.com/support/"
+msgstr "http://themeid.com/support/"
+
+#: includes/functions.php:455 includes/functions.php:456
+msgid "Theme Support"
+msgstr "Support för teman"
+
+#: includes/functions.php:458
+msgid "http://themeid.com/themes/"
+msgstr "http://themeid.com/themes/"
+
+#: includes/functions.php:458 includes/functions.php:459
+msgid "More Themes"
+msgstr "Fler teman"
+
+#: includes/functions.php:461
+msgid "http://themeid.com/showcase/"
+msgstr "http://themeid.com/showcase/"
+
+#: includes/functions.php:461 includes/functions.php:462
+msgid "Showcase"
+msgstr "Portfölj"
+
+#: includes/functions.php:464
+msgid "http://themeid.com/donate/"
+msgstr "http://themeid.com/donate/"
+
+#: includes/functions.php:464 includes/functions.php:465
+msgid "Donate Now"
+msgstr "Donera nu"
+
+#: includes/functions.php:480
+msgid "Main Sidebar"
+msgstr "Huvud Sidopanel"
+
+#: includes/functions.php:481
+msgid "Area One - sidebar.php"
+msgstr "Område Ett - sidebar.php"
+
+#: includes/functions.php:530
+msgid "Home Widget 1"
+msgstr "Hem Widget 1"
+
+#: includes/functions.php:531
+msgid "Area Six - sidebar-home.php"
+msgstr "Område Sex - sidebar-home.php"
+
+#: includes/functions.php:540
+msgid "Home Widget 2"
+msgstr "Hem Widget 2"
+
+#: includes/functions.php:541
+msgid "Area Seven - sidebar-home.php"
+msgstr "Område Sju - sidebar-home.php"
+
+#: includes/functions.php:570
+msgid "Colophon Widget"
+msgstr "Colophon Widget"
+
+#: includes/functions.php:571
+msgid "Area Ten - sidebar-colophon.php"
+msgstr "Område Tio - sidebar-colophon.php"
+
+#: includes/functions.php:580
+msgid "Top Widget"
+msgstr "Top Widget "
+
+#: includes/functions.php:581
+msgid "Area Twelve - sidebar-top.php"
+msgstr "Område Tolv - sidebar-top.php"
+
+#: includes/searchform-header.php:22 searchform.php:22
+msgid "search here &hellip;"
+msgstr "sök här &hellip;"
+
+#: includes/theme-options.php:45 includes/theme-options.php:140
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: includes/theme-options.php:144
+msgid "Options Saved"
+msgstr "Inställningar Sparade"
+
+#: includes/theme-options.php:155
+msgid "Theme Elements"
+msgstr "Temainslag"
+
+#: includes/theme-options.php:164
+msgid "Disable Breadcrumb Lists?"
+msgstr "Inaktivera Brödsmulor?"
+
+#: includes/theme-options.php:167
+msgid "Check to disable"
+msgstr "Klicka i för att inaktivera"
+
+#: includes/theme-options.php:172 includes/theme-options.php:269
+#: includes/theme-options.php:327 includes/theme-options.php:414
+#: includes/theme-options.php:440 includes/theme-options.php:471
+msgid "Save Options"
+msgstr "Spara Inställningar"
+
+#: includes/theme-options.php:179
+msgid "Logo Upload"
+msgstr "Ladda Upp Logotyp"
+
+#: includes/theme-options.php:187
+msgid "Custom Header"
+msgstr "Anpassat Sidhuvud"
+
+#: includes/theme-options.php:190
+msgid "Need to replace or remove default logo?"
+msgstr "I behov av att byta ut eller ta bort standardlogotypen?"
+
+#: includes/theme-options.php:190
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Klicka här</a>."
+
+#: includes/theme-options.php:197
+msgid "Home Page"
+msgstr "Startsida"
+
+#: includes/theme-options.php:205
+msgid "Headline"
+msgstr "Rubrik"
+
+#: includes/theme-options.php:208
+msgid "Enter your headline"
+msgstr "Ange din rubrik"
+
+#: includes/theme-options.php:216
+msgid "Subheadline"
+msgstr "Underrubrik"
+
+#: includes/theme-options.php:219
+msgid "Enter your subheadline"
+msgstr "Ange din underrubrik"
+
+#: includes/theme-options.php:227
+msgid "Content Area"
+msgstr "Innehållsområdet"
+
+#: includes/theme-options.php:230
+msgid "Enter your content"
+msgstr "Ange ditt innehåll"
+
+#: includes/theme-options.php:238
+msgid "Call to Action (URL)"
+msgstr "Call to Action (URL)"
+
+#: includes/theme-options.php:241
+msgid "Enter your call to action URL"
+msgstr "Ange din call to action-URL"
+
+#: includes/theme-options.php:249
+msgid "Call to Action (Text)"
+msgstr "Call to Action (Text)"
+
+#: includes/theme-options.php:252
+msgid "Enter your call to action text"
+msgstr "Ange din call to action-text"
+
+#: includes/theme-options.php:261
+msgid "Featured Content"
+msgstr "Presenterat Innehåll"
+
+#: includes/theme-options.php:262
+msgid "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+msgstr "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+
+#: includes/theme-options.php:262 includes/theme-options.php:263
+msgid "See Docs"
+msgstr "Se Dokumentation"
+
+#: includes/theme-options.php:267
+msgid "Paste your shortcode, video or image source"
+msgstr "Klistra in video- eller bildkälla"
+
+#: includes/theme-options.php:276
+msgid "Webmaster Tools"
+msgstr "Webbadministratörsverktyg"
+
+#: includes/theme-options.php:285
+msgid "Google Site Verification"
+msgstr "Google: Verifiering av webbplatsen"
+
+#: includes/theme-options.php:288
+msgid "Enter your Google ID number only"
+msgstr "Ange endast ditt Google ID-nummer"
+
+#: includes/theme-options.php:296
+msgid "Bing Site Verification"
+msgstr "Bing: Verifiering av webbplatsen"
+
+#: includes/theme-options.php:299
+msgid "Enter your Bing ID number only"
+msgstr "Ange endast ditt Bing ID-nummer"
+
+#: includes/theme-options.php:307
+msgid "Yahoo Site Verification"
+msgstr "Yahoo: Verifiering av webbplatsen"
+
+#: includes/theme-options.php:310
+msgid "Enter your Yahoo ID number only"
+msgstr "Ange endast ditt Yahoo ID-nummer"
+
+#: includes/theme-options.php:319
+msgid "Site Statistics Tracker"
+msgstr "Site Statistics Tracker"
+
+#: includes/theme-options.php:320
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Lämna blankt om plugin hanterar dina webbadministratörsverktyg"
+
+#: includes/theme-options.php:325
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, någon annan eller alla av dem."
+
+#: includes/theme-options.php:334
+msgid "Social Icons"
+msgstr "Sociala Ikoner"
+
+#: includes/theme-options.php:343
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/theme-options.php:346
+msgid "Enter your Twitter URL"
+msgstr "Ange din Twitter-URL"
+
+#: includes/theme-options.php:349 includes/widgets.php:33
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/theme-options.php:352
+msgid "Enter your Facebook URL"
+msgstr "Ange din Facebook-URL"
+
+#: includes/theme-options.php:355
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/theme-options.php:358
+msgid "Enter your LinkedIn URL"
+msgstr "Ange din LinkedIn-URL"
+
+#: includes/theme-options.php:361
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/theme-options.php:364
+msgid "Enter your YouTube URL"
+msgstr "Ange din YouTube-URL"
+
+#: includes/theme-options.php:367
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: includes/theme-options.php:370
+msgid "Enter your StumbleUpon URL"
+msgstr "Ange din StumbleUpon-URL"
+
+#: includes/theme-options.php:373
+msgid "RSS Feed"
+msgstr "RSS-flöde"
+
+#: includes/theme-options.php:376
+msgid "Enter your RSS Feed URL"
+msgstr "Ange ditt RSS-flödes URL"
+
+#: includes/theme-options.php:379
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/theme-options.php:382
+msgid "Enter your Google+ URL"
+msgstr "Ange din Google+-URL"
+
+#: includes/theme-options.php:385
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/theme-options.php:388
+msgid "Enter your Instagram URL"
+msgstr "Ange din Instagram-URL"
+
+#: includes/theme-options.php:391
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/theme-options.php:394
+msgid "Enter your Pinterest URL"
+msgstr "Ange din Pinterest-URL"
+
+#: includes/theme-options.php:397
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: includes/theme-options.php:400
+msgid "Enter your Yelp! URL"
+msgstr "Ange din Yelp!-URL"
+
+#: includes/theme-options.php:403
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/theme-options.php:406
+msgid "Enter your Vimeo URL"
+msgstr "Ange din Vimeo-URL"
+
+#: includes/theme-options.php:409
+msgid "foursquare"
+msgstr "foursquare"
+
+#: includes/theme-options.php:412
+msgid "Enter your foursquare URL"
+msgstr "Ange din foursquare-URL"
+
+#: includes/theme-options.php:421 includes/theme-options.php:431
+msgid "Custom CSS Styles"
+msgstr "Anpassade CSS-stilar"
+
+#: includes/theme-options.php:432
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "http://www.webdesignskolan.com/css/css.php"
+
+#: includes/theme-options.php:432 includes/theme-options.php:433
+msgid "CSS Tutorial"
+msgstr "CSS-handledning"
+
+#: includes/theme-options.php:438
+msgid "Enter your custom CSS styles."
+msgstr "Ange din anpassade CSS."
+
+#: includes/theme-options.php:447
+msgid "Custom Scripts"
+msgstr "Anpassade Scripts"
+
+#: includes/theme-options.php:457
+msgid "Custom Scripts for Header and Footer"
+msgstr "asd"
+
+#: includes/theme-options.php:458
+msgid "http://codex.wordpress.org/Using_Javascript"
+msgstr "http://codex.wordpress.org/Using_Javascript"
+
+#: includes/theme-options.php:458 includes/theme-options.php:459
+msgid "Quick Tutorial"
+msgstr "Snabb Tutorial"
+
+#: includes/theme-options.php:463
+msgid "Embeds to header.php &darr;"
+msgstr ""
+
+#: includes/theme-options.php:465
+msgid "Enter your custom header script."
+msgstr "Ange din anpassade header script."
+
+#: includes/theme-options.php:467
+msgid "Embeds to footer.php &darr;"
+msgstr ""
+
+#: includes/theme-options.php:469
+msgid "Enter your custom footer script."
+msgstr "Ange din anpassade footer script."
+
+#: includes/widgets.php:17
+msgid "Facebook Widget"
+msgstr "Facebook Widget"
+
+#: includes/widgets.php:18
+msgid "Displays Facebook like box"
+msgstr "Visa Facebook like box"
+
+#: includes/widgets.php:39 includes/widgets.php:108
+msgid "Title:"
+msgstr "Rubrik: "
+
+#: includes/widgets.php:43
+msgid "Facebook page URL:"
+msgstr "Facebook sida URL:"
+
+#: includes/widgets.php:87
+msgid "RSS Widget for Opinsys Labs"
+msgstr "RSS Widget för Opinsys Labs"
+
+#: includes/widgets.php:88
+msgid "Displays Opinsys Labs RSS-feed"
+msgstr "Visa Opinsys Labs RSS-feed"
+
+#: includes/widgets.php:104
+msgid "RSS-feed"
+msgstr "RSS-feed"
+
+#: includes/widgets.php:112
+msgid "RSS item quantity:"
+msgstr "RSS artikel antal:"
+
+#: includes/widgets.php:116
+msgid "RSS URL:"
+msgstr "RSS URL:"
+
+#: includes/widgets.php:164
+msgid "News and updates about our work in the realm of Linux and the Web."
+msgstr "News and updates about our work in the realm of Linux and the Web."
+
+#: includes/widgets.php:168
+msgid "RSS-feed can not be loaded at the moment..."
+msgstr "RSS-feed kan inte laddas för tillfället..."
+
+#: includes/widgets.php:194
+msgid "Sidebar article Widget"
+msgstr ""
+
+#: includes/widgets.php:195
+msgid "Displays different article types in sidebar"
+msgstr ""
+
+#: includes/widgets.php:217
+msgid "Enable latest articles?"
+msgstr "Möjliggöra senaste artiklar?"
+
+#: includes/widgets.php:221
+msgid "Enable the most read articles?"
+msgstr "Möjliggöra populäraste artiklar"
+
+#: includes/widgets.php:225
+msgid "Enable random articles?"
+msgstr "Möjliggöra slumpmässiga artiklar?"
+
+#: includes/widgets.php:254
+msgid "Latest articles"
+msgstr "Senaste artiklar"
+
+#: includes/widgets.php:271
+msgid "Popular posts"
+msgstr "Populärste artiklar"
+
+#: includes/widgets.php:288
+msgid "Random articles"
+msgstr "Slumpmässiga artiklar"
+
+#: search.php:27
+#, php-format
+msgid "Search results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: search.php:66
+msgid "Your search for"
+msgstr "Din sökning av"
+
+#: search.php:66
+msgid "did not match any entries"
+msgstr "matchade inte några poster"
+
+#: searchform.php:23
+msgid "Go"
+msgstr "Gå"
+
+#: sidebar-home.php:36
+msgid "Read more &#8594;"
+msgstr "Läs mer &#8250;"
+
+#: single.php:55
+msgid "About"
+msgstr "Om"
+
+#: sitemap.php:42
+msgid "Categories"
+msgstr "Kategorier"
+
+#: sitemap.php:47
+msgid "Latest Posts"
+msgstr "Senaste Inlägg"
+
+#: sitemap.php:58
+msgid "Pages"
+msgstr "Sidor"
+
+#: static-data-for-home.php:21 static-data-for-home.php:23
+#: static-data-for-home.php:25 static-data-for-home.php:26
+msgid "ICT for schools"
+msgstr "Skolans IT"
+
+#: static-data-for-home.php:27
+msgid "Technical solutions, support and training"
+msgstr "Teknik, stöd och skolning"
+
+#: static-data-for-home.php:31 static-data-for-home.php:33
+#: static-data-for-home.php:35
+msgid "Messaging for schools"
+msgstr "Skolans informering"
+
+#: static-data-for-home.php:36
+msgid "InfoTv"
+msgstr "Infotv"
+
+#: static-data-for-home.php:40 static-data-for-home.php:42
+#: static-data-for-home.php:44 static-data-for-home.php:45
+msgid "Mobility"
+msgstr "Mobila lösningar"
+
+#: static-data-for-home.php:46
+msgid "Wireless and laptops"
+msgstr "Trådlöst nät och bärbara datorer"
+
+#~ msgid "In Archive"
+#~ msgstr "I Arkiv"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Höger Sidopanel"
+
+#~ msgid "Area Two - sidebar-right.php"
+#~ msgstr "Område Två - sidebar-right.php"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Vänster Sidopanel"
+
+#~ msgid "Area Three - sidebar-left.php"
+#~ msgstr "Område Tre - sidebar-left.php"
+
+#~ msgid "Left Sidebar Half Page"
+#~ msgstr "Vänster Sidpanel Halvsida"
+
+#~ msgid "Area Four - sidebar-left-half.php"
+#~ msgstr "Område Fyra - sidebar-left-half.php"
+
+#~ msgid "Right Sidebar Half Page"
+#~ msgstr "Höger Sidopanel Halvsida"
+
+#~ msgid "Area Five - sidebar-right-half.php"
+#~ msgstr "Område Fem - sidebar-right-half.php"
+
+#~ msgid "Gallery Sidebar"
+#~ msgstr "Galleri Sidopanel"
+
+#~ msgid "Area Nine - sidebar-gallery.php"
+#~ msgstr "Område Nio - sidebar-gallery.php"
+
+#~ msgid "Image Information"
+#~ msgstr "Bildinformation"
+
+#~ msgid "Full Size:"
+#~ msgstr "Fullstorlek:"
+
+#~ msgid "Aperture: f&#47;"
+#~ msgstr "Bländaröppning: f&#47;"
+
+#~ msgid "Focal Length:"
+#~ msgstr "Brännvidd:"
+
+#~ msgid "mm"
+#~ msgstr "mm"
+
+#~ msgid "ISO:"
+#~ msgstr "ISO:"
+
+#~ msgid "Shutter:"
+#~ msgstr "Slutare:"
+
+#~ msgid "Camera:"
+#~ msgstr "Kamera:"
+
+#~ msgid "Disable Call to Action Button?"
+#~ msgstr "Inaktivera Call to Action-knappen?"
+
+#, fuzzy
+#~ msgid "Content/Sidebar"
+#~ msgstr "Vänster Sidopanel"
+
+#, fuzzy
+#~ msgid "Sidebar/Content"
+#~ msgstr "Presenterat Innehåll"
+
+#, fuzzy
+#~ msgid "Content/Sidebar Half Page"
+#~ msgstr "Vänster Sidpanel Halvsida"
+
+#, fuzzy
+#~ msgid "Sidebar/Content Half Page"
+#~ msgstr "Vänster Sidpanel Halvsida"
+
+#, fuzzy
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress"
+
+#, fuzzy
+#~ msgid "Install"
+#~ msgstr "Instagram"
+
+#~ msgid "Area 6 - sidebar-home.php - Displays on the Home Page"
+#~ msgstr "Område Sex - sidebar-home.php"
+
+#~ msgid "Area 7 - sidebar-home.php - Displays on the Home Page"
+#~ msgstr "Område Sju - sidebar-home.php"
+
+#~ msgid "Home Widget 3"
+#~ msgstr "Hem Widget 3"
+
+#~ msgid "Area 8 - sidebar-home.php - Displays on the Home Page"
+#~ msgstr "Område Åtta - sidebar-home.php"
+
+#~ msgid "Footer Widget"
+#~ msgstr "Footer Widget"
+
+#~ msgid "Page %s"
+#~ msgstr "Sidor %s"
+
+#~ msgid ""
+#~ "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>"
+#~ "%4$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#~ msgid "Archive for %s"
+#~ msgstr "Arkiv för %s"
+
+#~ msgid "Posts tagged %s"
+#~ msgstr "Inlägg taggade %s"
+
+#~ msgid "Error 404"
+#~ msgstr "Fel 404 "
+
+#~ msgid "Responsive Add Features"
+#~ msgstr "Responsive Theme"
+
+#~ msgid "CSS Styles"
+#~ msgstr "CSS-stilar"
+
+#~ msgid "Disable breadcrumb list?"
+#~ msgstr "Inaktivera Brödsmulor?"
+
+#~ msgid "check to disable"
+#~ msgstr "Klicka i för att inaktivera"
+
+#~ msgid "check to enable"
+#~ msgstr "Klicka i för att aktivera"
+
+#~ msgid "Hello, World!"
+#~ msgstr "Hello, World!"
+
+#~ msgid "Your H2 subheadline here"
+#~ msgstr "Din H2-underrubrik här"
+
+#~ msgid ""
+#~ "Your title, subtitle and this very content is editable from Theme Option. "
+#~ "Call to Action button and its destination link as well. Image on your "
+#~ "right can be an image or even YouTube video if you like."
+#~ msgstr ""
+#~ "Din rubrik, underrubrik och detta innehåll kan du redigera från "
+#~ "Temainställningar. Call to Action-knappen och dess adress likaså. Bild "
+#~ "till höger kan vara en bild eller till och med en YouTube-video om du så "
+#~ "önskar."
+
+#~ msgid "Call to Action"
+#~ msgstr "Call to Action"
+
+#~ msgid "Responsive Theme"
+#~ msgstr "Responsive Theme"
+
+#~ msgid "powered by"
+#~ msgstr "drivs av"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "Your search for %s did not match any entries."
+#~ msgstr "Sökningen %s matchade inte några poster"
+
+#~ msgid "You can return %s or search for the page you were looking for."
+#~ msgstr "Du kan återvända %s eller söka efter den sidan du letade efter."
+
+#~ msgid "Search for:"
+#~ msgstr "Din sökning av: "
+
+#~ msgid ""
+#~ "This is your first home widget box. To edit please go to Appearance > "
+#~ "Widgets and choose 6th widget from the top in area 6 called Home Widget "
+#~ "1. Title is also manageable from widgets as well."
+#~ msgstr ""
+#~ "Detta är din första hem-widget-box. För att redigera, gå till Utseende > "
+#~ "Widgets och välj sjätte widgeten från toppen i område sex vid namn Hem "
+#~ "Widget 1. Rubriken är också hanterbar från Widgets."
+
+#~ msgid ""
+#~ "This is your second home widget box. To edit please go to Appearance > "
+#~ "Widgets and choose 7th widget from the top in area 7 called Home Widget "
+#~ "2. Title is also manageable from widgets as well."
+#~ msgstr ""
+#~ "Detta är din andra hem-widget-box. För att redigera, gå till Utseende > "
+#~ "Widgets och välj sjunde widgeten från toppen i område sju vid namn Hem "
+#~ "Widget 2. Rubriken är också hanterbar från Widgets."
+
+#~ msgid ""
+#~ "This is your third home widget box. To edit please go to Appearance > "
+#~ "Widgets and choose 8th widget from the top in area 8 called Home Widget "
+#~ "3. Title is also manageable from widgets as well."
+#~ msgstr ""
+#~ "Detta är din tredje hem-widget-box. För att redigera, gå till Utseende > "
+#~ "Widgets och välj åttonde widgeten från toppen i område åtta vid namn Hem "
+#~ "Widget 3. Rubriken är också hanterbar från Widgets."
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Mest använda Kategorier"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Författare arkiver: %s"
+
+#~ msgid "About %s"
+#~ msgstr "Om %s"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Kategori Arkiv: %s"
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "En kommentar på “%2$s”"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&#8249; Äldre kommentarer"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Nyare kommentarer &darr;"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Permanent Länk till %s"
+
+#~ msgid "Gallery"
+#~ msgstr "Galleri Sidopanel"
+
+#~ msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#~ msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://sv.wordpress.org/"
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Proudly powered by %s"
+
+#, fuzzy
+#~ msgid "Primary Menu"
+#~ msgstr "Sidhuvud Meny"
+
+#, fuzzy
+#~ msgid "Showcase Sidebar"
+#~ msgstr "Galleri Sidopanel"
+
+#, fuzzy
+#~ msgid "Footer Area One"
+#~ msgstr "Sidfot Meny"
+
+#, fuzzy
+#~ msgid "Footer Area Two"
+#~ msgstr "Sidfot Meny"
+
+#, fuzzy
+#~ msgid "Image navigation"
+#~ msgstr "Bildinformation"
+
+#, fuzzy
+#~ msgid "&larr; Previous"
+#~ msgstr "&larr; Hem"
+
+#, fuzzy
+#~ msgid "Next &rarr;"
+#~ msgstr "Inga Kommentarer &darr;"
+
+#, fuzzy
+#~ msgid "Color Scheme"
+#~ msgstr "Fler teman"
+
+#, fuzzy
+#~ msgid "For more information:"
+#~ msgstr "Bildinformation"
+
+#, fuzzy
+#~ msgid "Content on left"
+#~ msgstr "Innehållsområdet"
+
+#, fuzzy
+#~ msgid "Content on right"
+#~ msgstr "Innehållsområdet"
+
+#, fuzzy
+#~ msgid "Default color: %s"
+#~ msgstr "Sökresultat för: %s"
+
+#, fuzzy
+#~ msgid "%s Theme Options"
+#~ msgstr "Temainställningar"
+
+#, fuzzy
+#~ msgid "Link to %s"
+#~ msgstr "Permanent Länk till %s"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Sökresultat för: %s"
+
+#, fuzzy
+#~ msgid "Featured Post"
+#~ msgstr "Presenterat Innehåll"
+
+#, fuzzy
+#~ msgid "Recent Posts"
+#~ msgstr "Senaste Inlägg"
+
+#, fuzzy
+#~ msgid "Archives"
+#~ msgstr "I Arkiv"
+
+#, fuzzy
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Dagliga Arkiv: %s"
+
+#, fuzzy
+#~ msgid "All posts by %s"
+#~ msgstr "Alla inlägg av "
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "1 Kommentar &darr;"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "% Kommentarer &darr;"
+
+#, fuzzy
+#~ msgid "Primary Sidebar"
+#~ msgstr "Galleri Sidopanel"
+
+#, fuzzy
+#~ msgid "Content Sidebar"
+#~ msgstr "Vänster Sidopanel"
+
+#, fuzzy
+#~ msgid "Footer Widget Area"
+#~ msgstr "Hem Widget 1"
+
+#, fuzzy
+#~ msgid "Skip to content"
+#~ msgstr "Ange ditt innehåll"
+
+#, fuzzy
+#~ msgid "Tag Name"
+#~ msgstr "Namn"
+
+#, fuzzy
+#~ msgid "<span class=\"meta-nav\">Published In</span>%title"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#, fuzzy
+#~ msgid "Images"
+#~ msgstr "Sidor"
+
+#, fuzzy
+#~ msgid "Links"
+#~ msgstr "LinkedIn"
+
+#, fuzzy
+#~ msgid "Galleries"
+#~ msgstr "Galleri Sidopanel"
+
+#, fuzzy
+#~ msgid "Daily Archives: <span>%s</span>"
+#~ msgstr "Dagliga Arkiv: %s"
+
+#, fuzzy
+#~ msgid "Monthly Archives: <span>%s</span>"
+#~ msgstr "Månadsarkiv: %s"
+
+#, fuzzy
+#~ msgid "Yearly Archives: <span>%s</span>"
+#~ msgstr "Årliga Arkiv: %s"
+
+#, fuzzy
+#~ msgid "Proudly powered by %s."
+#~ msgstr "drivs av"
+
+#, fuzzy
+#~ msgid "(Edit)"
+#~ msgstr "Redigera"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+#~ "span> %3$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#, fuzzy
+#~ msgid "Return to %s"
+#~ msgstr "&#8249; Gå tillbaka till"
+
+#, fuzzy
+#~ msgid "<span class=\"%1$s\">By</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#, fuzzy
+#~ msgid "<span class=\"%1$s\">Published</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Publicerad den</span> %2$s av %3$s"
+
+#, fuzzy
+#~ msgid "&larr;"
+#~ msgstr "&uarr;"
+
+#, fuzzy
+#~ msgid "&rarr;"
+#~ msgstr "&uarr;"
+
+#, fuzzy
+#~ msgid "More Galleries"
+#~ msgstr "Fler teman"
+
+#, fuzzy
+#~ msgid "One comment so far"
+#~ msgstr "% Kommentarer &darr;"
+
+#, fuzzy
+#~ msgid "View all % comments"
+#~ msgstr "Visa alla inlägg av %s"
+
+#, fuzzy
+#~ msgid "Main Widget Area"
+#~ msgstr "Huvud Sidopanel"
+
+#, fuzzy
+#~ msgid "Menu"
+#~ msgstr "Topp Meny"
+
+#, fuzzy
+#~ msgid "%s Archives"
+#~ msgstr "I Arkiv"
+
+#, fuzzy
+#~ msgid "Featured post"
+#~ msgstr "Presenterat Innehåll"
+
+#~ msgid "http://themeid.com/responsive-theme/"
+#~ msgstr "http://themeid.com/responsive-theme/"
+
+#~ msgid "Untitled"
+#~ msgstr "Odöpt"
+
+#~ msgid "Area Eight - sidebar-home.php"
+#~ msgstr "Område Åtta - sidebar-home.php"
