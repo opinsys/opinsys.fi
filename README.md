@@ -20,6 +20,9 @@
 ## Highlight
 * Add tag 'highlight' to any post and excerpt of it + link to post appears on left side of home page below Opinsys-service images
 
+## Google Analytics
+* Add your Google Analytics ID in theme settings page
+
 ## Translations
 * Original Responsive theme comes with several translations (located in /languages -folder)
 * Opinsys related stuff is translated only to English, Finnish and Swedish at the moment
