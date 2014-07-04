@@ -4,6 +4,9 @@
 
 ## Uses / likes / needs
 * Original theme [Responsive](http://cyberchimps.com/responsive-theme/)
+* [Facebook Open Graph protocol plugin](http://wordpress.org/plugins/wp-facebook-open-graph-protocol/)
+* [Responsive Lightbox plugin](http://wordpress.org/plugins/responsive-lightbox/)
+* [Twitter Account Box plugin](http://wordpress.org/plugins/twitter-account-box/)
 
 ## Built in Widgets
 * Facebook like box
