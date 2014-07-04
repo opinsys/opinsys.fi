@@ -48,11 +48,7 @@ if ( !defined('ABSPATH')) exit;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-  <meta property="og:title" content="<?php echo get_bloginfo('description');?>">
-  <meta property="og:site_name" content="Opinsys Oy">
-  <meta property="og:url" content="<?php echo home_url();?>">
-  <meta property="og:locale" content="<?php echo get_locale();?>">
-  <meta property="og:image" content="http://www.opinsys.fi/wp-content/themes/responsive-opinsys/images/default-logo.png">
+
 </head>
 
 <body <?php body_class(); ?>>
