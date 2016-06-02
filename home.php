@@ -55,7 +55,10 @@ if ( !defined('ABSPATH')) exit;
 
       </div><!-- end of .col-460 -->
 
-       <div id="featured-image" class="grid">
+        <div id="featured-image" class="grid" style="background-image: url(images/main_image.jpg)">
+          <p>Ainoa täysin kouluille räätälöity tietotekninen kokonaisuus, joka kattaa sekä peruskoulun että lukion tieto- ja viestintätekniikan.</p>
+          <p>Palvelu yhdistää laitteet, oppimisympäristöt ja oppimateriaalit. Lisäksi se tuo digivälineet osaksi koulun arkea.</p>
+          <p>Opinsys-palvelu antaa oppilaille mahdollisuuden opiskella digimaailman parhailla välineillä.</p>
 
           <?php
   	// First let's check if image was set
@@ -66,7 +69,7 @@ if ( !defined('ABSPATH')) exit;
             // Get right image depending on site locale
             switch (get_locale()) {
               case 'fi':
-                $betterLearningImg = 'opinsys-parempaa-oppimista.png';
+                $betterLearningImg = 'main_image.jpg';
                 break;
               case 'en_US':
                 $betterLearningImg = 'opinsys-better-learning.png';
@@ -85,7 +88,7 @@ if ( !defined('ABSPATH')) exit;
                 break;
             }
             ?>
-            <h1>=<img src="<?php echo get_template_directory_uri();?>/images/<?php echo $betterLearningImg;?>" title="<?php _e('Opinsys service – Better learning', 'responsive');?>" alt="<?php _e('Opinsys service – Better learning', 'responsive');?>">
+            <h1><img src="<?php echo get_template_directory_uri();?>/images/<?php echo $betterLearningImg;?>" title="<?php _e('Opinsys service – Better learning', 'responsive');?>" alt="<?php _e('Opinsys service – Better learning', 'responsive');?>">
             <span class="image-header-text"><?php _e('Better learning', 'responsive');?></span></h1>
           <?php }
   	?>

@@ -16,6 +16,7 @@ if ( !defined('ABSPATH')) exit;
  * @since          available since Release 1.0
  */
 ?>
+
 <?php
 // Figure out which pages we search by get_page_by_title()
   switch (get_locale()) {
@@ -56,7 +57,7 @@ if ( !defined('ABSPATH')) exit;
 
 
 <div class="padder-02 landing-page-services-wrap clearfix">
-  <a href="<?php echo esc_url( get_permalink(get_page_by_title($title1)));?>" title="<?php _e('ICT for schools', 'responsive');?>">
+  <!--<a href="<?php echo esc_url( get_permalink(get_page_by_title($title1)));?>" title="<?php _e('ICT for schools', 'responsive');?>">
     <div class="grid col-300 dblock clearfix">
       <h1><?php _e('ICT for schools', 'responsive');?></h1>
       <div class="item-wrapper">
@@ -79,10 +80,11 @@ if ( !defined('ABSPATH')) exit;
     <div class="grid col-300 fit dblock clearfix">
       <h1><?php _e('Mobility', 'responsive');?></h1>
       <div class="item-wrapper">
-        <img alt="<?php _e('Mobility', 'responsive');?>" class="landing-page-services-image" src="<?php echo get_template_directory_uri();?>/images/opinsys-mobiilius.png">
+        <img alt="<?php _e('Mobility', 'responsive');?>" class="landing-page-services-image" src="<?php echo get_template_directory_uri();?>/images/opinsys-mobiiliusß.png">
         <img alt="<?php _e('Mobility', 'responsive');?>" class="landing-page-services-image-wide" src="<?php echo get_template_directory_uri();?>/images/opinsys-mobiilius-wide.png">
         <p><span><?php _e('Wireless and laptops', 'responsive');?></span></p>
       </div>
     </div>
   </a>
+-->
 </div>
