@@ -19,6 +19,13 @@ if ( !defined('ABSPATH')) exit;
  */
 ?>
 <?php
+// Load Favicon in Header Section
+add_action('wp_head', 'blog_favicon');
+
+// add a favicon
+function blog_favicon() {
+  echo '<link rel="shortcut icon" type="image/png" href="' . get_stylesheet_directory_uri() . '/favicon.png" />';
+}
 /**
  * Fire up the engines boys and girls let's start theme setup.
  */

@@ -151,6 +151,21 @@ function responsive_theme_options_do_page() {
             <?php $options = get_option('responsive_theme_options'); ?>
 
             <div id="rwd" class="grid col-940">
+              <h3 class="rwd-toggle"><a href="#"><?php _e('Google Analytics', 'responsive'); ?></a></h3>
+              <div class="rwd-container">
+              <div class="rwd-block">
+                <div class="grid col-300"><?php _e('Google Analytics ID', 'responsive'); ?></div><!-- end of .grid col-300 -->
+                <div class="grid col-620 fit">
+                  <input id="responsive_theme_options[google_analytics_id]" class="regular-text" type="text" name="responsive_theme_options[google_analytics_id]" value="<?php if (!empty($options['google_analytics_id'])) echo esc_attr($options['google_analytics_id']); ?>" />
+                  <label class="description" for="responsive_theme_options[google_analytics_id]"><?php _e('Enter your Google Analytics ID', 'responsive'); ?></label>
+                </div><!-- end of .grid col-620 -->
+                <div class="grid col-620 fit">
+                  <p class="submit">
+                    <input type="submit" class="button-primary" value="<?php _e('Save Options', 'responsive'); ?>" />
+                  </p>
+                </div><!-- end of .grid col-620 -->
+                </div>
+              </div>
 
             <h3 class="rwd-toggle"><a href="#"><?php _e('Theme Elements', 'responsive'); ?></a></h3>
             <div class="rwd-container">
@@ -520,6 +535,7 @@ function responsive_theme_options_validate($input) {
 	$input['responsive_inline_css'] = wp_kses_stripslashes($input['responsive_inline_css']);
 	$input['responsive_inline_js_head'] = wp_kses_stripslashes($input['responsive_inline_js_head']);
 	// $input['responsive_inline_css_js_footer'] = wp_kses_stripslashes($input['responsive_inline_css_js_footer']);
+  $input['google_analytics_id'] = wp_kses_stripslashes($input['google_analytics_id']);
 
   return $input;
 }

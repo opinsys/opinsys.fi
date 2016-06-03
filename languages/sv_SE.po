@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Responsive Theme\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-03 12:40+0200\n"
-"PO-Revision-Date: 2014-07-03 12:51+0200\n"
+"POT-Creation-Date: 2014-07-03 13:07+0200\n"
+"PO-Revision-Date: 2014-07-03 15:31+0200\n"
 "Last-Translator: Janne Saarela <jannejuhani@gmail.com>\n"
 "Language-Team: Swedish, Sweden\n"
 "Language: sv_SE\n"
@@ -174,11 +174,11 @@ msgstr "Läs mer &#8250;"
 msgid "Opinsys services"
 msgstr "Opinsys-tjänster"
 
-#: home.php:91
+#: home.php:88
 msgid "Opinsys service – Better learning"
 msgstr "Opinsys tjänster - Bättre lärande"
 
-#: home.php:92
+#: home.php:89
 msgid "Better learning"
 msgstr "Bättre lärande"
 
@@ -727,30 +727,30 @@ msgstr "Senaste Inlägg"
 msgid "Pages"
 msgstr "Sidor"
 
-#: static-data-for-home.php:21 static-data-for-home.php:23
-#: static-data-for-home.php:25 static-data-for-home.php:26
+#: static-data-for-home.php:59 static-data-for-home.php:61
+#: static-data-for-home.php:63 static-data-for-home.php:64
 msgid "ICT for schools"
 msgstr "Skolans IT"
 
-#: static-data-for-home.php:27
+#: static-data-for-home.php:65
 msgid "Technical solutions, support and training"
 msgstr "Teknik, stöd och skolning"
 
-#: static-data-for-home.php:31 static-data-for-home.php:33
-#: static-data-for-home.php:35
+#: static-data-for-home.php:69 static-data-for-home.php:71
+#: static-data-for-home.php:73
 msgid "Messaging for schools"
 msgstr "Skolans informering"
 
-#: static-data-for-home.php:36
+#: static-data-for-home.php:74
 msgid "InfoTv"
 msgstr "Infotv"
 
-#: static-data-for-home.php:40 static-data-for-home.php:42
-#: static-data-for-home.php:44 static-data-for-home.php:45
+#: static-data-for-home.php:78 static-data-for-home.php:80
+#: static-data-for-home.php:82 static-data-for-home.php:83
 msgid "Mobility"
 msgstr "Mobila lösningar"
 
-#: static-data-for-home.php:46
+#: static-data-for-home.php:84
 msgid "Wireless and laptops"
 msgstr "Trådlöst nät och bärbara datorer"
 

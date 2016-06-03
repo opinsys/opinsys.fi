@@ -1209,7 +1209,7 @@ form div {
 #logo {
   float: left;
   margin: 0;
-  padding: 0.85em 0;
+  padding: 0 0 0.85em 0;
 }
 
 .site-name {
@@ -1484,14 +1484,14 @@ display: none;
     margin: 0;
 }
 
-#widgets ul li {
+.widget-wrapper ul li {
   background: url("images/ico-next.png") no-repeat 0 4px;
   border-bottom: 1px dotted #CCC;
   list-style: none;
   padding: 0px 0 7px 20px;
   margin: 7px 20px 0 0;
 }
-#widgets.home-widgets ul li {
+.home-widgets ul li {
   border: none;
   margin: 0;
   padding-left: 20px;
@@ -3194,8 +3194,3 @@ BDO[DIR="rtl"] {
 /*
 * The last 29 days of the month are the hardest."- Nikola Tesla
 */
-
-#twitteraccountbox ul li{
-  background-image: none;
-  list-style:none;
-}

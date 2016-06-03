@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Responsive Opinsys 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-03 12:40+0200\n"
-"PO-Revision-Date: 2014-07-03 12:44+0200\n"
+"POT-Creation-Date: 2014-07-03 13:07+0200\n"
+"PO-Revision-Date: 2014-07-03 15:31+0200\n"
 "Last-Translator: Janne Saarela <jannejuhani@gmail.com>\n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -206,11 +206,11 @@ msgstr "Lue lisää ›"
 msgid "Opinsys services"
 msgstr "Opinsys-palvelu"
 
-#: home.php:91
+#: home.php:88
 msgid "Opinsys service – Better learning"
 msgstr "Opinsys-palvelu - Parempaa oppimista"
 
-#: home.php:92
+#: home.php:89
 msgid "Better learning"
 msgstr "Parempaa oppimista"
 
@@ -837,30 +837,30 @@ msgstr "Uusimmat julkaisut"
 msgid "Pages"
 msgstr "Sivut"
 
-#: static-data-for-home.php:21 static-data-for-home.php:23
-#: static-data-for-home.php:25 static-data-for-home.php:26
+#: static-data-for-home.php:59 static-data-for-home.php:61
+#: static-data-for-home.php:63 static-data-for-home.php:64
 msgid "ICT for schools"
 msgstr "Koulun tietotekniikka"
 
-#: static-data-for-home.php:27
+#: static-data-for-home.php:65
 msgid "Technical solutions, support and training"
 msgstr "Tekniikka, tuki ja koulutus"
 
-#: static-data-for-home.php:31 static-data-for-home.php:33
-#: static-data-for-home.php:35
+#: static-data-for-home.php:69 static-data-for-home.php:71
+#: static-data-for-home.php:73
 msgid "Messaging for schools"
 msgstr "Koulun tiedotus"
 
-#: static-data-for-home.php:36
+#: static-data-for-home.php:74
 msgid "InfoTv"
 msgstr "Infotv"
 
-#: static-data-for-home.php:40 static-data-for-home.php:42
-#: static-data-for-home.php:44 static-data-for-home.php:45
+#: static-data-for-home.php:78 static-data-for-home.php:80
+#: static-data-for-home.php:82 static-data-for-home.php:83
 msgid "Mobility"
 msgstr "Koulun mobiilius"
 
-#: static-data-for-home.php:46
+#: static-data-for-home.php:84
 msgid "Wireless and laptops"
 msgstr "Langaton verkko ja kannettavat"
 
